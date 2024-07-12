@@ -62,6 +62,6 @@
 </p>
 
 -----
-Créditos: [Shwetang550](https://github.com/Shwetang550)
+Créditos: [Pabloutc](https://github.com/Pabloutc)
 
-Última edición: 15/01/2021
+Última edición: 12/07/2024
