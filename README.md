@@ -15,7 +15,7 @@
 - 👨🏽‍💻 Actualmente estoy trabajando en algo genial :wink:.
 - 🌱 Actualmente estoy aprendiendo Python.
 - 💬 Pregúntame sobre cualquier cosa, estoy feliz de ayudar.
-- 📫 Cómo contactarme: shwetangsingh5@gmail.com.
+- 📫 Cómo contactarme: pablo.pullopaxi1155@utc.edu.ec
 
 ***
 
