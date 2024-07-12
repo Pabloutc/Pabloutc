@@ -22,8 +22,10 @@
 - 🌱 Actualmente estoy aprendiendo Aplicaciones Moviles.
 - 💬 Pregúntame sobre cualquier cosa, estoy feliz de ayudar.
 - :muscle: Me Gusta Esforzarme
-- 📫 Cómo contactarme: pablo.pullopaxi1155@utc.edu.ec
-- WhatsAPP:https://wa.me/qr/32ZBIFPO4BWTF1
+- 📫 Cómo contactarme: [Gmail](pablo.pullopaxi1155@utc.edu.ec)
+- WhatsAPP:(https://wa.me/qr/32ZBIFPO4BWTF1)
+
+
 
 ***
 
