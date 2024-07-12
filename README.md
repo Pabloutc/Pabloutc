@@ -1,9 +1,9 @@
 <h2 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , Yo Soy Pablo Pullopaxi</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/shwetang-3335b896/">
+  <a href="https://www.facebook.com/?locale=es_LA">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="LinkedIn" height="30" width="30" />
   </a> 
-  <a href="https://www.instagram.com/shwetang_singh/">
+  <a href="https://www.instagram.com/accounts/login/">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" height="30" width="30" />
   </a> 
   <a href="https://mail.google.com/mail/u/0/#inbox">
@@ -15,6 +15,7 @@
 </p>
 
 <img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
+<br>
 
 **Hablando de cosas personales:**
 
@@ -39,8 +40,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shwetang550&layout=compact&theme=dark" alt="top-langs" />
 </p>
 
-*NOTA: 'Lenguajes más usados' no indica mi nivel de habilidad ni nada por el estilo, es una métrica de GitHub sobre los lenguajes en los que tengo más código en GitHub, es una nueva función de [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
-
+*NOTA: 'Lenguajes más usados' no indica mi nivel de habilidad ni nada por el estilo, es una métrica de GitHub sobre los lenguajes en los que tengo más código en GitHub, es una nueva función.
 <br>
 
 **Lenguajes y herramientas**
