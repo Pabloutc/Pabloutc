@@ -1,3 +1,4 @@
+
 <h2 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , Yo Soy Pablo Pullopaxi</h2>
 <p align="center">
   <a href="https://www.facebook.com/?locale=es_LA">
@@ -19,10 +20,12 @@
 
 **Hablando de cosas personales:**
 
-- 👨🏽‍💻 Actualmente estoy estudiando algo genial :wink:.
+- Tengo 23 años
+- Me gusta mucho realizar Deporte
+- 👨🏽‍💻 Actualmente estoy estudiando  Ingenieria en Sistemas de Informacion.
 - 🌱 Actualmente estoy aprendiendo Aplicaciones Moviles.
 - 💬 Pregúntame sobre cualquier cosa, estoy feliz de ayudar.
-- :muscle: Me Gusta Esforzarme
+- <img src="https://media.giphy.com/media/i1uGZJFqpgImXmDJSK/giphy.gif" width="25px"> Me Gusta Esforzarme
 - 📫 Cómo contactarme: [pablo.pullopaxi1155@utc.edu.ec](https://mail.google.com/mail/u/0/#inbox)
 - WhatsAPP:[0998638968](https://wa.me/qr/32ZBIFPO4BWTF1)
 
