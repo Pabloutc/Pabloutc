@@ -6,8 +6,8 @@
   <a href="https://www.instagram.com/shwetang_singh/">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" height="30" width="30" />
   </a> 
-  <a href="https://twitter.com/Shwetang550">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Twitter" height="30" width="30" />
+  <a href="https://mail.google.com/mail/u/0/#inbox">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="30" width="30" />
   </a>
 </p>
 <p align="center">
@@ -23,6 +23,7 @@
 - 💬 Pregúntame sobre cualquier cosa, estoy feliz de ayudar.
 - :muscle: Me Gusta Esforzarme
 - 📫 Cómo contactarme: pablo.pullopaxi1155@utc.edu.ec
+- WhatsAPP:https://wa.me/qr/32ZBIFPO4BWTF1
 
 ***
 
