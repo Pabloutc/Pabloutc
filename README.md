@@ -5,7 +5,7 @@
   <a href="https://twitter.com/Shwetang550">Twitter</a>
 </p>
 <p align="center">
-  <img src="https://github.com/Pabloutc/Pabloutc/blob/main/universidad.jpeg" alt="Pablo Pullopaxi" width="150rem" />
+  <img src="https://github.com/Pabloutc/Pabloutc/blob/main/universidad.jpeg" alt="Pablo Pullopaxi" width="250rem" />
 </p>
 
 <img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
