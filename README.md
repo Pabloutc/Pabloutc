@@ -1,15 +1,13 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-
 <h2 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , Yo Soy Pablo Pullopaxi</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/shwetang-3335b896/">
-    <i class="fab fa-linkedin"></i> LinkedIn
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" />
   </a> •
   <a href="https://www.instagram.com/shwetang_singh/">
-    <i class="fab fa-instagram"></i> Instagram
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" height="30" width="30" />
   </a> •
   <a href="https://twitter.com/Shwetang550">
-    <i class="fab fa-twitter"></i> Twitter
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter" height="30" width="30" />
   </a>
 </p>
 <p align="center">
