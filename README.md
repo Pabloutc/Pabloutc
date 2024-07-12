@@ -1,8 +1,11 @@
-<h2 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , Yo  Soy Pablo <a href="https://shwetang550.github.io/profile/">Shwetang</a></h2>
+<h2 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , Yo  Soy Pablo Pullopaxi <a href="https://shwetang550.github.io/profile/">Shwetang</a></h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/shwetang-3335b896/">LinkedIN</a> •
   <a href="https://www.instagram.com/shwetang_singh/">Instagram</a> •
   <a href="https://twitter.com/Shwetang550">Twitter</a>
+</p>
+<p align="center">
+  <img src="https://github.com/tu-usuario/tu-repo/blob/main/universidad.jpeg?raw=true" alt="Pablo Pullopaxi" width="150rem" />
 </p>
 
 <img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
